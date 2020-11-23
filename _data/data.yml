@@ -79,30 +79,29 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Analyst / Change Manager
+      time: Mar 2019 - Jul 2019
+      company: Alfa-Bank Ukraine, Kyiv
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        + Planning and distribution of the budget for the implementation of tasks on the completion / development of software.
+        + Prioritization of tasks within the general IT queue of the departament.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Analyst
+      time: Dec 2017 - Mar 2019
+      company: Alfa-Bank Ukraine, Kyiv
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Collection, formalization and coordination of requirements with customers
+        Analysis, formation of business / system requirements
+        Business Process Modeling (BPMN)
+        Development, preparation of documentation BRD, RS
+        Initiation of software development / revision
+        Maintenance of software products at all stages of the development life cycle.
+        Conduct acceptance / custom software testing.
+        Reporting, high level of complexity, for related departments
+        Administration, updating and filling black lists in CBS B2.
+        Experience with Siebel CRM
+        Work with Jira, Confluence and Project Portfolio Management System (PPM)
           - Bullet point
           - Bullet point
     - role: Operational and application software analyst
