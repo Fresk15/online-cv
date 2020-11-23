@@ -79,12 +79,20 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: System Analyst
+      time: Aug 2019 - Present
+      company: Kyivstar, Kyiv
+      details: |
+        + Planning and distribution of the budget for the implementation of tasks on the completion / development of software.
+        + Prioritization of tasks within the general IT queue of the departament.
+          - Bullet point
+          - Bullet point
     - role: Senior Analyst / Change Manager
       time: Mar 2019 - Jul 2019
       company: Alfa-Bank Ukraine, Kyiv
       details: |
-        + Planning and distribution of the budget for the implementation of tasks on the completion / development of software.
-        + Prioritization of tasks within the general IT queue of the departament.
+        Planning and distribution of the budget for the implementation of tasks on the completion / development of software.
+        Prioritization of tasks within the general IT queue of the departament.
           - Bullet point
           - Bullet point
     - role: Analyst
