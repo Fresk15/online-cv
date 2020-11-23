@@ -79,7 +79,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: System Analyst
+    - role: **System Analyst**
       time: Aug 2019 - Present
       company: Kyivstar, Kyiv
       details: |
